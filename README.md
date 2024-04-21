@@ -5,6 +5,10 @@ SDDM, a Linux Login Manager, supports theming through QML, allowing for custom d
 
 ![screenshot](https://github.com/surajmandalcell/Elegant-sddm/blob/master/Elegant/preview.png?raw=true)
 
+## Requirements
+
+`yay -S sddm-git qt5-graphicaleffects`
+
 ## Install
 1. `git clone https://github.com/surajmandalcell/Elegant-sddm.git`
 
