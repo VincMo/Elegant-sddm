@@ -35,7 +35,7 @@ Item {
             id: userIconRec
             anchors {
                 top: parent.top
-                topMargin: parent.height / 4
+                topMargin: parent.height / 2
                 horizontalCenter: parent.horizontalCenter
             }
             width: 130
@@ -156,3 +156,4 @@ Item {
         }
     }
 }
+
